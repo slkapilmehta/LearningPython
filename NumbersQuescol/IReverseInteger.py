@@ -1,5 +1,3 @@
-#Q. Write a program to reverse an integer in python?
-
 def revInteger(num):
     rnum = 0
     if num == 0:
